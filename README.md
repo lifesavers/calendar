@@ -1,9 +1,9 @@
 Do We Want A Mod 13, Remander 1 or Mod 12 Remainder 5 Calendar for the next 1000 Years?
 ========================================================================================
 
-lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that opens Namespace on 13 Months and as much as 5 Days, each of which can be labeled with a Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind.
+lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind.
 
-More description will be forthcoming. 
+Please check the Print Design Assets for Guidance on the Conversion Year Mnemonics, which You can cut out and carry with You anywhere You go, and remix and readapt for any hhome and hhouse timespace-planning and -packing, timespace-folding and -unfolding environment You're in. More description will be forthcoming, some of which can be seen below. 
 
 
 Conversion Catalysts
