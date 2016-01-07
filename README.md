@@ -3,6 +3,10 @@ Do We Want A Mod 13, Remander 1 or Mod 12 Remainder 5 Calendar for the next 1000
 
 lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind.
 
+Today, unlike in Ancient Times, a small number of Operating System Vendors can achieve a Calendar Shift on Our Present-day⁵ Screens, Laptops, Cellphones rather quickly⁵. Most Hardware Firmware can be upgraded or, when too costly⁵, phased back in. Implementation is best done within 350 Days, with Most or Many Systems Shifting over by 017-01月, or if those Deadlines Fail, within the Year 017, to lock New Year's Each Year to Saturday (the Proposed "Best Day"), and the Nobel Gas Progression (2, 10, 18) to the  一日,二日,三日 Progression, ending on Friendsday (the Proposed Nomic Calmunity⁵ Improvement Name for Wednesday). Sustaining Second System Effects for long will be frustrating, so a Concerted Phase-in would be Wise. 
+
+The Other Details of the Implementation and the Leap Year Rules must be settled immediately by a Trust.ed⁺ Ruling Technical Standards Body⁵, with Code Driven into Codebases in a Lock-Step Scheduled Order, from Broad to Narrow Use. 
+
 Please check the Print Design Assets for Guidance on the Conversion Year Mnemonics, which You can cut out and carry with You anywhere You go, and remix and readapt for any hhome and hhouse timespace-planning and -packing, timespace-folding and -unfolding environment You're in. More description will be forthcoming, some of which can be seen below. 
 
 
