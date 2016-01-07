@@ -1,5 +1,5 @@
-Mod 13 Remander 1 v Mod 12 Remainder 5
-=======================================
+Do We Want A Mod 13, Remander 1 or Mod 12 Remainder 5 Calendar for the next 1000 Years?
+========================================================================================
 
 lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that opens Namespace on 13 Months and as much as 5 Days, each of which can be labeled with a Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind.
 
