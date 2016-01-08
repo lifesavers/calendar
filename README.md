@@ -38,8 +38,8 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 ###Open Nomic Namespace for 7 Days###
 
 
-| English | Norse, et. al. | Putonghua Path 普通话|
-|-----------------------------------------|
+| English | Norse, et. al. | Putonghua Path 普通话|  
+|---------|----------------|----------------|
 | Monday| [Moon's Day][] | 一日|
 | Tuesday| [Tiw's Day][] | 二日|
 | Wednesday| [Woden's Day][] | 三日|
@@ -53,7 +53,7 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 
 
 | English | Roman Gods, et. al. | Putonghua Path 普通话|
-|-----------------------------------------|
+|---------|----------------------|----------|
 | January| [Janus: Foresight, Hindsight][] | 一日|
 | February| [Februar: Cleaning][] | 二日|
 | March| [Mars: March to War][] | 三日|
