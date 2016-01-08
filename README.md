@@ -1,9 +1,23 @@
 Do We Want A Mod 13, Remander 1 or Mod 12 Remainder 5 Calendar for the next 1000 Years?
 ========================================================================================
 
-lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind.
+lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a [Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind][Franklin Calendar]. 
+
+The "Franklin Calendar" of Virtues, it just so happens, [Numbers Up to 13][13_Franklin_Virtues], just like the "Open Namespace" Months on this Calendar. This becomes an Automatic Franklin Calendar with 13 Months and 28 Opportunities, in Each Month, to Become Healthier, Hhomier, more Hhouse and Hhouseholder, Better, Happier. i want to preserve as much creative space as possible on this Calendar. i would just __suggest__ two Months in English -∆  - Ænglish that have survived my most Exhaustive Search, the sort in which i spend weeks in revery with langauge with electric attachment to the Words that Select the Most, under constantly Refined, ever more Parametric and Perfect Search Rules, with no Expectation or Anticipation that these, at this Stage, in undergoing research by as many as 10 Billion Theoretical Max Be⁴ings, deciding this Question for not just One but Several Centuries, might posit will be Adopted. The Months, even less than currency names, can not change more often than every Century⁵ without throwing the students of Hherstory⁵. 
+
+To demonstrate the value of these Two Month Nomic Samples, i will later release small Case Narratives to demonstrate how hhumanistic these months might help Us and All Be⁴, but exercise Your Imagination, in everyday n-counters' and You might see the sense of adding these or even better Wisdoms to the Calendar of Virtues:  
+1. "Teaching": Abbrev. "Teach", "Tea";  
+2. "Recycle": Abbrev. "Re", "Rec", "Cycle"
+
+Teaching, Teach, Tea is going to be hard to beat, i suspect, especially over Summer Learning and its evil twin and imposter, Summer Learning Loss. Recycle may be as strong, but it's of and in the Material World.. it has a different Character and Feel of Cycling than Tea, Teach, Teaching Cycles. 
+
+You have many Questions on the Process of Conversion, and the Confusions that will come in the Days where Systems are "Pushed, Pulled, and Lock.ed⁺ Into Place." i have settled as many of the Broad Strokes as i can, and with the Understanding that too much dilatory debate can Unharbor this Work for 017, i have worked on it as Centripetally (in Center-Seeking, Central Accelerations) as i could to minimize the cost and improve the effect of the Change, over a Long-sighted Timeframe that, for everyone, will simplify to much less Work over the Years. 
 
 Please check the Print Design Assets for Guidance on the Conversion Year Mnemonics, which You can cut out and carry with You anywhere You go, and remix and readapt for any hhome and hhouse timespace-planning and -packing, timespace-folding and -unfolding environment You're in. More description will be forthcoming, some of which can be seen below. 
+
+Hhackers and Hhomemakers and Children of the World, Let's Unite and Get this Job Done. It's a Gift Worth Giving to Each Other for the Upcoming New Year's Cradle. Running this forward, a Dv Standard that builds from here seems to be Among the Most Centuries-Altaring Life Monuments wei can complete for the New Year's of 017. 
+
+Remainder 5 can't win over Remainder 1, can it?
 
 
 Conversion Catalysts
@@ -71,12 +85,17 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 
 Again, at risk of being repetitive, the only Namespace that requires lock is "Bestday" (_Saturday_ | Sunday) and "Restday" (Saturday | _Sunday_), with priority order set by a Customer's Coinflip⁸. All other Weekdays, including the naming of Wednesday as "1, 2, 4 Friendsday" and "18日 Familyday". 
 
-The best time for this Transition is 017, in just 358 days from the time of this Writing, because the Lifesaver Labs, pax-m New Year's can be locked into a "Saturday" (Bestday) Local Night or Global Matching Hour Cycle every Year from now on that way⁵, without any break in the Weekly Cycle. Valiant's Day will also thereby fall on Family⁵ Day (the Third Friendsday, the day we now call Wednesdaythe 18D). All other Calendrical Celebrations can be rescheduled.
+The best time for this Transition would be 017, in just 358 days from the time of this Writing, because the Lifesaver Labs, pax-m New Year's can be locked into a Nobel Gas Periodic Pattern of 2, 10, 18 falling on Day 1 一日, Day 2 二日, Day 3 三日, with the New Year being set to "Sunday" (Restday) at the Global New Year's on InterNacional Standard Greetings Time or Local Night on the Anatomic Times of the Global Cycle every Year from now on that way⁵, without any break in the Weekly Cycle. Valiant's Day will also thereby fall on Family⁵ Day (the Third Friendsday, the day we now call Wednesday, the 18D). All other Calendrical Celebrations can be rescheduled.
 
+Is Bestday or Restday the best day for everyone to Celebrate New Year's? If the answer is to Host New Year's on Restday, Sunday, for the next 433 Years, let's do this. Otherwise, Wei'll have to suffer until 023 with this Calendar. Or until the first Bestday, Saturday Bridge, in 022.   
 
-
+i see 017 as Our Best Option, and putting this off is a Recipe for Parkinson's Planning Failure. The Herstories are full of stories of Calendar Reforms going nowhere, for lack of the Wholly-Formed, Wellspring.ed⁺ Will to Stick to a Deadline on Gregorian, Julian-modified and a Lifeline on something built-off and built-better than lifesaver labs, Pax-modified. For Free-form.ed⁺ Reformers, let me save You some debate time. The Major Stability Gain is Destabilized if there's even the Slightest Change in the Cycle of Weekly Prayer that Undergirds Billions of Souls' Religious Faith. No one will suffer [Napoleonic Whiplash][Republican Calendar] in a shift to a 10 Day Calendar, or the insertion of days one-at-a-time, in anything less than week-long blocks, within the Progression of the Calendar Weeks.
 
 Æ/æ 粘土人
+
+[Franklin Calendar]: http://chronicle.com/blogs/profhacker/benjamin-franklins-habit-tracker/35069
+[13_Franklin_Virtues]: http://www.gutenberg.org/files/20203/20203-h/20203-h.htm#IX
+[Republican Calendar]: http://www.napoleon.org/en/essential_napoleon/calendar/index.asp
 
 [Moon's Day]: https://en.wikipedia.org/wiki/Monday
 [Tiw's Day]: https://en.wikipedia.org/wiki/Tuesday
