@@ -69,7 +69,7 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
  
 
 
-Again, at risk of being repetetive, the only Namespace that requires lock is "Bestday" (_Saturday_ | Sunday) and "Restday" (Saturday | _Sunday_), with priority order set by a Customer's Coinflip⁸. All other Weekdays, including the naming of Wednesday as "1, 2, 4 Friendsday" and "18日 Familyday". 
+Again, at risk of being repetitive, the only Namespace that requires lock is "Bestday" (_Saturday_ | Sunday) and "Restday" (Saturday | _Sunday_), with priority order set by a Customer's Coinflip⁸. All other Weekdays, including the naming of Wednesday as "1, 2, 4 Friendsday" and "18日 Familyday". 
 
 The best time for this Transition is 017, in just 358 days from the time of this Writing, because the Lifesaver Labs, pax-m New Year's can be locked into a "Saturday" (Bestday) Local Night or Global Matching Hour Cycle every Year from now on that way⁵, without any break in the Weekly Cycle. Valiant's Day will also thereby fall on Family⁵ Day (the Third Friendsday, the day we now call Wednesdaythe 18D). All other Calendrical Celebrations can be rescheduled.
 
