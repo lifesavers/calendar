@@ -58,34 +58,34 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 ###Open Nomic Namespace for 7 Days###
 
 
-| English | lifesaver labs Dates, with 017 Launch |Norse, et. al. | Putonghua Path 普通话|  lifesavers cal |
+| English | lifesaver labs Dates, with 017 Launch |Origins in Norse, et. al. | Putonghua Path 普通话|  lifesavers cal |
 |---------|:------:|----------------|----------------|-----------------------|
-| Monday| *02*, 9, 16, 23 | [Moon's Day][] | 一日| Open Namespace - Suggest a Name! Subject to Naming Contest (STNC, NC*) |
-| Tuesday| 03, *10*, 17, 24 | [Tiw's Day][] | 二日| Suggest a Thoughtful Name! Tell Us Wy⁵! NC* |
-| Wednesday| 04, 11, *18*, 25 | [Woden's Day][] | 三日|  *Friendsday Defaultˀ* Suggest an Active Name! NC* |
-| Thursday| 05, 12, 19, 26 | [Thor's Day][] | 四日|  Suggest a Conscientious Name! NC* |
-| Friday| 06, *13*, 20, 27 | [Frietag's Day][] | 五日|  Suggest a Reflective Name! NC* |
+| Monday| **02**, 9, 16, 23 | [Moon's Day][] | 一日| Franklin Week Naming Contest! NC* |
+| Tuesday| 03, **10**, 17, 24 | [Tiw's Day][] | 二日| Naming Contest! NC* |
+| Wednesday| 04, 11, **18**, 25 | [Woden's Day][] | 三日|  *Friendsday Defaultˀ* Suggest an Active Name! NC* |
+| Thursday| 05, 12, 19, 26 | [Thor's Day][] | 四日|  Naming Contest! NC* |
+| Friday| 06, **13**, 20, 27 | [Frietag's Day][] | 五日|  Naming Contest! NC* |
 | Saturday| 07, 14, 21, *28* | [Saturn's Day][] | 六日| **Bestday Default** - Subject to (Dis-)Confirmation, Contest |
-| Sunday| *01*, *08*, 15, 22 | [Sun's Day][] | 天日| **Restday Default** - Subject to (Dis-)Confirmation, Contest |
+| Sunday| *01*, **08**, 15, 22 | [Sun's Day][] | 天日| **Restday Default** - Subject to (Dis-)Confirmation, Contest |
 
 
 ###Open Nomic Namespace for 13 Months###
 
 
-| English | Roman Gods, et. al. | Putonghua Path 普通话|  lifesavers cal |
+| English | Origins in Roman Gods, et. al. | Putonghua Path 普通话|  lifesavers cal |
 |---------|----------------------|----------|-----------------------|
-| January| [Janus: Foresight, Hindsight][] | 一日| Open Namespace - Subject to Naming Contest (STNC) |
-| February| [Februar: Cleaning][] | 二日| Suggest a Name! Tell Us Wy⁵! NC*  |
-| March| [Mars: March to War][] | 三日| Suggest a Name! NC*   |
-| April| [Aprilis: Unknown][] | 四日| Suggest a Name! NC*  |
-| May| [Maia: Fertility][] | 五日| Suggest a Name! NC*  |
-| June | [Juno: Marriage Goddess][] | 六日| Suggest a Name! NC*  |
-| July| [Julius: Vanity, Caesar][] | 天日| Suggest an Educational Name! NC*  |
-| August| [Augustus: Even Worse Vanity][] | 天日| Suggest a Name! NC*   |
-| September| [Septum: Seven, Thrown by Vanity][] | 天日 | Suggest a Name! NC*  |
-| October| [October: Eight, Thrown by Vanity][] | 天日| Suggest a Name! NC*   |
-| November| [Novem: Nine, Also Thrown by Vanity][] | 天日| Suggest a Name! NC*   |
-| December| [Decem: Ten, See Above][] | 天日| Suggest a Name! NC*   |
+| January|  Franklin Calendar Naming Contest! NC* | [Janus: Foresight, Hindsight][] | 一日|
+| February|  Participate! Suggest a Name! Tell Us Wy⁵! NC*  |[Februar: Cleaning][] | 二日|
+| March|  Participate! Suggest a Name! NC*   |[Mars: March to War][] | 三日|
+| April|  Participate! Suggest a Name! NC*  |[Aprilis: Unknown][] | 四日|
+| May| Participate! Suggest a Name! NC*  | [Maia: Fertility][] | 五日|
+| June | Participate! Suggest a Name! NC*  | [Juno: Marriage Goddess][] | 六日|
+| July|  Participate! Suggest an Educational Name! NC*  |[Julius: Vanity, Caesar][] | 天日|
+| August|  Participate! Suggest a Name! NC*   |[Augustus: Even Worse Vanity][] | 天日|
+| September| Participate! Suggest a Name! NC*  | [Septum: Seven, Thrown by Vanity][] | 天日 |
+| October| Participate! Suggest a Name! NC*   | [October: Eight, Thrown by Vanity][] | 天日|
+| November| Participate! Suggest a Name! NC*   | [Novem: Nine, Also Thrown by Vanity][] | 天日|
+| December| Vote! Be heard! Close the Choice of Names! NC*   | [Decem: Ten, See Above][] | 天日|
  
 
 
