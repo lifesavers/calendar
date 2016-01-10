@@ -56,7 +56,7 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 |---------|----------------|----------------|-----------------------|
 | Monday| [Moon's Day][] | 一日| Open Namespace - Suggest a Name! Subject to Naming Contest (STNC, NC*) |
 | Tuesday| [Tiw's Day][] | 二日| Suggest a Thoughtful Name! Tell Us Wy⁵! NC* |
-| Wednesday| [Woden's Day][] | 三日|  Friendsday? Suggest an Active Name! NC* |
+| Wednesday| [Woden's Day][] | 三日|  *Friendsday Defaultˀ* Suggest an Active Name! NC* |
 | Thursday| [Thor's Day][] | 四日|  Suggest a Conscientious Name! NC* |
 | Friday| [Frietag's Day][] | 五日|  Suggest a Reflective Name! NC* |
 | Saturday| [Saturn's Day][] | 六日| **Bestday Default** - Subject to (Dis-)Confirmation, Contest |
