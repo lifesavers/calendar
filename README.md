@@ -1,5 +1,7 @@
-Do We Want A Mod 13, Remander 1 or Mod 12 Remainder 5 Calendar for the next 1000 Years?
+Remainder 5 or Remainder 1? Let's Put the Gregorian, Julian Calendar in the Grave this Year
 ========================================================================================
+
+##For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?##
 
 lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a [Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind][Franklin Calendar]. 
 
