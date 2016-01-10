@@ -5,20 +5,11 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ![lifesaver labs, pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
-This is the Kohlberg Commons lifesaver labs (LL³⁶) Calendar, which is actually a rather light, dusted-off repackaging of the [Pax Calendar by J. Cooligan][wk_pax_calendar], with a hhandful of precautions and selection biases thrown in to lower the friction on a practical, relatively [thermokenethic][diccionario] worldwide adoption. There's a lot of great work and insight from the logic contests of the early 1900s that still hasn't been implemented Yet, and this is one of the highest ranking and highest impact when Adopted. Any Improvement in "Calendrical Episodic Memory⁵ and Planning Projection" can have an enormous effect. And if we follow the Cooligan Rule, with Leap Weeks every 71 of 400 Years (called Pax, by Cooligan), wei can Program the Major Strokes of the Calendar Immediately, without Further Delay⁵, leaving the Long and Short Labels for a Final Deliberative Decision Process. Let's just please not Program the Leap Week between Month 12 and 13, like Cooligan did. Let's just drop the Leap Week at the End of the Year. It's much easier, and if wei're going to be on a delay from solar sidereal at max by about a relative 3.5 days, the difference in putting it on the 7th Year after the 13th Month rather than after the 12th is not Material. 
-
-The Leap Year Rules are quite simple, and can be done in Our Heads.
-
-    "..[A Leap Week].. every year whose last two digits make up a number that is divisible by six or are 99. 
-    "Years ending with 00 have Pax, unless the year number is divisible by 400." [Wk³⁶][wk_pax_calendar]
-
-So, let's practice. Here's four strings from random.org: 280828401 (excluded string) 810403206 508450040. The excluded string is a random number that resembled "777772345". It was random.org, no doubt, but it was not useful for training. Wei want trainable randomness, not true randomness. Let's break these numbers down into two digit blocks and learn how to foresee the Leap Weeks, Gift Weeks, or, as Cooligan called them, the Pax. 
-
-280828401810403206508450040
 
 mod12(365)=5 or mod13(365)=1? Only an idiotés would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
 
 
+This is the Kohlberg Commons lifesaver labs (LL³⁶) Calendar, which is actually a rather light, dusted-off repackaging of the [Pax Calendar by J. Cooligan][wk_pax_calendar], with a hhandful of precautions and selection biases thrown in to lower the friction on a practical, relatively [thermokenethic][diccionario] worldwide adoption. There's a lot of great work and insight from the logic contests of the early 1900s that still hasn't been implemented Yet, and this is one of the highest ranking and highest impact when Adopted. Any Improvement in "Calendrical Episodic Memory⁵ and Planning Projection" can have an enormous effect. And if we follow the Cooligan Rule, with Leap Weeks every 71 of 400 Years (called Pax, by Cooligan), wei can Program the Major Strokes of the Calendar Immediately, without Further Delay⁵, leaving the Long and Short Labels for a Final Deliberative Decision Process. Let's just please not Program the Leap Week between Month 12 and 13, like Cooligan did. Let's just drop the Leap Week at the End of the Year. It's much easier, and if wei're going to be on a delay from solar sidereal at max by about a relative 3.5 days, the difference in putting it on the 7th Year after the 13th Month rather than after the 12th is not Material. 
 
 Why⁵ wouldn't You want to be able to anchor each day of the month to a specific weekday?  For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?
 
@@ -95,9 +86,26 @@ You have many Questions on the Process of Conversion, and the Confusions that wi
 
 Today, unlike in Ancient Times, a small number of Operating System Vendors can achieve a Calendar Shift on Our Present-day⁵ Screens, Laptops, Cellphones rather quickly⁵. Most Hardware Firmware can be upgraded or, when too costly⁵, phased back in. Implementation is best done within 350 Days, with Most or Many Systems Shifting over by 017-01月, or if those Deadlines Fail, within the Year 017, to lock New Year's Each Year to Saturday (the Proposed "Best Day"), and the Nobel Gas Progression (2, 10, 18) to the  一日,二日,三日 Progression, ending on Friendsday (the Proposed Nomic Calmunity⁵ Improvement Name for Wednesday). Sustaining Second System Effects for long will be frustrating, so a Concerted Phase-in would be Wise. 
 
+
+Leap Year Rules
+-----------------
 The Other Details of the Implementation and the Leap Year Rules must be settled immediately by a Trust.ed⁺ Ruling Technical Standards Body⁵, with Code Driven into Codebases in a Lock-Step Scheduled Order, from Broad to Narrow Use. 
 
-Please check the Print Design Assets for Guidance on the Conversion Year Mnemonics, which You can cut out and carry with You anywhere You go, and remix and readapt for any hhome and hhouse timespace-planning and -packing, timespace-folding and -unfolding environment You're in. More description will be forthcoming, some of which can be seen below. 
+
+The Leap Year Rules of the Cooligan Pax Implementation are quite simple, and can be done in Our Heads with Practice.
+
+    "..[A Leap Week].. every year whose last two digits make up a number that is divisible by six or are 99. 
+    "Years ending with 00 have Pax, unless the year number is divisible by 400." [Wk³⁶][wk_pax_calendar]
+
+So, let's practice. Here's four strings from random.org: 280828401(excluded string)810403206508450040. The excluded string is a random number that resembled "777772345". It was random.org, no doubt, but it was not useful for training. Wei want trainable randomness, not true randomness. Let's break these numbers down into two digit blocks and learn how to foresee the Leap Weeks, Gift Weeks, or, as Cooligan called them, the Pax. 
+
+    Leap Year N = [6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78, 84, 90, 96, 99]
+    Training Set: 28, 08, 28, 40, 18, 10, 40, 32, 06, 50, 84, 50, 04
+
+Try that out, methodically⁵.  Type out Your answers seperated by commas. If You want to confirm, check the Answer Key⁵ below.
+
+Please check the "Print Design Assets" for Guidance on the Conversion Year Mnemonics, which You can cut out and carry with You anywhere You go, and remix and readapt for any hhome and hhouse timespace-planning and -packing, timespace-folding and -unfolding environment You're in. More description will be forthcoming, some of which can be seen below, some of which i hope will spill rapidly out into the World, after being better-organized and better-written, as this moves into Adoption nearer toward "Hhuman-readable, Machine-readable, Major Industrial Hub" Production Code. 
+
 
 A Gift Worth Giving. Hhackers, Hhomemakers, Hhouses of the World.. Let's Hharmlessly Unite!
 ----------------------------------------------------------------------
@@ -238,5 +246,7 @@ It's my belief that this is a Physical Necessity⁵, not only on the Grounds of 
 [diccionario]: https://github.com/lifesavers/diccionario#definitions-of-the-lifesaversarmy-diccionario
 
 World Commentary is not only welcomed but very proactively n-couraged! This needs to be done on an IntEranacional Level, of course, to reach stability⁵. 
+
+Leap Year Answer Key: N, N, N, N, Y, N, N, N, Y, N, Y, N, N
 
 ⁸: For the Bestday, Restday Ordering, an even more divinely-driven "random pseudo-random" can settle the Bestday, Restday Order to National Institutes of Standards and Technology⁵ (NIST), IntEranacional Observers, et. al. Grades of Random Seed Randomness. Only after the coinflip, Bestday⁵ emerged as the Superlatively Best Culturally for the end of a Grinding Workweek, and that may be settled (or its opposite settled) in the Will without 50|50 Resort. My vote is for Bestday - Restday, reasoning this thru for any⁵ Population that expresses Anticipation for the Weekend and "No Special Committment" to Religious Ᏼranch Worship on the 1st or the 7th Day Adventisms in particular on this Nomic Naming Matter, which sidesteps ""Sabbath | Shabbat"" Controversial Namings of the Saturday (Saturn's Day) or Sunday (Sun's Day). 
