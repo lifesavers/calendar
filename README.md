@@ -5,7 +5,7 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 Only an idiotes would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
 
-![lifesaver labs, pax-mod Calendar](http://www.github.com/lifesavers/calendar/KohlbergLL36PaxMCal.png)
+![lifesaver labs, pax-mod Calendar](http://www.github.com/lifesavers/calendar/webassets/KohlbergLL36PaxMCalendar.png)
 
 
 Why⁵ wouldn't You want to be able to anchor each day of the month to a specific weekday?  For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?###
