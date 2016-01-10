@@ -1,12 +1,11 @@
 Let's Put the Gregorian, Julian Calendar in the Grave this Year
-========================================================================================
-
+=======================================================================================
 
 ##mod12(365)=5 or mod13(365)=1?##
 
-Only an idiotes would base their Solar Calendar off mod 12, when they could mod 13 it instead. 
+Only an idiotes would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. Every 6th, 20th, 27th, and y⁵es, every 13th will always be a Friday. Always. Every Month will have a "Friday the 13th", forever. On the Julian Calendar, if i said to You, "Let's meet on the 20th next month", You and i will have to look up what day of the week that is.  Why do we do that to Ourselves when better options exist? 
 
-For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?###
+Why⁵ wouldn't You want to be able to anchor each day of the month to a specific weekday?  For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?###
 
 lifesaver labs, the Pax-modified Calendar, is a robust simplification of the Calendar that stops the swirling confusion of a "Remainder 5" Shift at the end of every Year, forcing unequal months, unpredictable weekday month kickoffs, and unstable anniversary⁵ memories. This Calendar is Consistent with All Known Religious Faiths, and Releases  Namespace last taken by the vanities of Julius Caesar and Augustus Caesar for at least 20 of 22 Major Nomic Naming Contests, each of which can be labeled with a [Franklin-like Ancient and Modern Blend of Calendrical Aims, Virtues, and Interdisciplines of Mind][Franklin Calendar]. 
 
@@ -59,15 +58,15 @@ Only "Restday" and "Bestday" are Locked, to Prevent a Reflective Halt.
 ###Open Nomic Namespace for 7 Days###
 
 
-| English | Norse, et. al. | Putonghua Path 普通话|  lifesavers cal |
-|---------|----------------|----------------|-----------------------|
-| Monday| [Moon's Day][] | 一日| Open Namespace - Suggest a Name! Subject to Naming Contest (STNC, NC*) |
-| Tuesday| [Tiw's Day][] | 二日| Suggest a Thoughtful Name! Tell Us Wy⁵! NC* |
-| Wednesday| [Woden's Day][] | 三日|  *Friendsday Defaultˀ* Suggest an Active Name! NC* |
-| Thursday| [Thor's Day][] | 四日|  Suggest a Conscientious Name! NC* |
-| Friday| [Frietag's Day][] | 五日|  Suggest a Reflective Name! NC* |
-| Saturday| [Saturn's Day][] | 六日| **Bestday Default** - Subject to (Dis-)Confirmation, Contest |
-| Sunday| [Sun's Day][] | 天日| **Restday Default** - Subject to (Dis-)Confirmation, Contest |
+| English | lifesaver labs Dates, with 017 Launch |Norse, et. al. | Putonghua Path 普通话|  lifesavers cal |
+|---------|:------:|----------------|----------------|-----------------------|
+| Monday| *02*, 9, 16, 23 | [Moon's Day][] | 一日| Open Namespace - Suggest a Name! Subject to Naming Contest (STNC, NC*) |
+| Tuesday| 03, *10*, 17, 24 | [Tiw's Day][] | 二日| Suggest a Thoughtful Name! Tell Us Wy⁵! NC* |
+| Wednesday| 04, 11, *18*, 25 | [Woden's Day][] | 三日|  *Friendsday Defaultˀ* Suggest an Active Name! NC* |
+| Thursday| 05, 12, 19, 26 | [Thor's Day][] | 四日|  Suggest a Conscientious Name! NC* |
+| Friday| 06, *13*, 20, 27 | [Frietag's Day][] | 五日|  Suggest a Reflective Name! NC* |
+| Saturday| 07, 14, 21, *28* | [Saturn's Day][] | 六日| **Bestday Default** - Subject to (Dis-)Confirmation, Contest |
+| Sunday| *01*, *08*, 15, 22 | [Sun's Day][] | 天日| **Restday Default** - Subject to (Dis-)Confirmation, Contest |
 
 
 ###Open Nomic Namespace for 13 Months###
