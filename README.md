@@ -1,9 +1,9 @@
 Let's Put the Gregorian, Julian Calendar in the Grave this Year
 =======================================================================================
 
-##mod12(365)=5 or mod13(365)=1?##
+##Only an [idiotes][diccionario] would base their Solar Calendar off mod 12##
 
-Only an idiotes would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
+mod12(365)=5 or mod13(365)=1? Only an idiotes would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
 
 ![lifesaver labs, pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
@@ -196,6 +196,7 @@ i see 017 as Our Best Option, and putting this off is a Recipe for Parkinson's P
 [Decem: Ten, See Above]: https://en.wikipedia.org/wiki/December
 
 [priming_effects]: https://en.wikipedia.org/wiki/Priming_(psychology)
+[diccionario]: https://github.com/lifesavers/diccionario#definitions-of-the-lifesaversarmy-diccionario
 
 World Commentary is not only welcomed but very proactively n-couraged! This needs to be done on an IntEranacional Level, of course, to reach stability⁵. 
 
