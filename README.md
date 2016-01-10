@@ -3,9 +3,21 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ##[Only an idiotés][diccionario] would base their Solar Calendar off mod 12##
 
+![lifesaver labs, pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
+
+This is the Kohlberg Commons lifesaver labs (LL³⁶) Calendar, which is actually a rather light, dusted-off repackaging of the [Pax Calendar by J. Cooligan][wk_pax_calendar], with a hhandful of precautions and selection biases thrown in to lower the friction on a practical, relatively [thermokenethic][diccionario] worldwide adoption. There's a lot of great work and insight from the logic contests of the early 1900s that still hasn't been implemented Yet, and this, it turns out, i would argue, is one of the highest ranking and highest impact. And if we follow the Cooligan Rule, with Leap Weeks every 71 of 400 Years (called Pax, by Cooligan), wei can Program the Major Strokes of the Calendar Immediately, without Further Delay⁵, leaving the Long and Short Labels for a Final Deliberative Decision Process. Let's just please not Program the Leap Week between Month 12 and 13, like Cooligan did. Let's just drop the Leap Week at the End of the Year. It's much easier, and if wei're going to be on a delay from solar sidereal at max by about a relative 3.5 days, the difference in putting it on the 7th Year after the 13th Month rather than after the 12th is not Material. 
+
+The Leap Year Rules are quite simple, and can be done in Our Heads.
+
+    "..[A Leap Week].. every year whose last two digits make up a number that is divisible by six or are 99. 
+    "Years ending with 00 have Pax, unless the year number is divisible by 400." [Wk³⁶][wk_pax_calendar]
+
+So, let's practice. Here's four strings from random.org: 280828401 (excluded string) 810403206 508450040. The excluded string is a random number that resembled "777772345". It was random.org, no doubt, but it was not useful for training. Wei want trainable randomness, not true randomness. Let's break these numbers down into two digit blocks and learn how to foresee the Leap Weeks, Gift Weeks, or, as Cooligan called them, the Pax. 
+
+280828401810403206508450040
+
 mod12(365)=5 or mod13(365)=1? Only an idiotés would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
 
-![lifesaver labs, pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
 
 Why⁵ wouldn't You want to be able to anchor each day of the month to a specific weekday?  For the next 1000 Years, do We / we really want to pitch our tent within the Calendrical "Base Camp" of Mod 12 when we can have the much simpler, far more memory-stable Mod 13 Pax Calendar as our Calendar's "Base Camp""?
@@ -173,6 +185,26 @@ Is Bestday or Restday the best day for everyone to Celebrate New Year's? If the 
 
 i see 017 as Our Best Option, and putting this off is a Recipe for Parkinson's Planning Failure. The Herstories are full of stories of Calendar Reforms going nowhere, for lack of the Wholly-Formed, Wellspring.ed⁺ Will to Stick to a Deadline on Gregorian, Julian-modified and a Lifeline on something built-off and built-better than lifesaver labs, Pax-modified. For Free-form.ed⁺ Reformers, let me save You some debate time. The Major Stability Gain is Destabilized if there's even the Slightest Change in the Cycle of Weekly Prayer that Undergirds Billions of Souls' Religious Faith. No one will suffer [Napoleonic Whiplash][Republican Calendar] in a shift to a 10 Day Calendar, or the insertion of days one-at-a-time, in anything less than week-long blocks, within the Progression of the Calendar Weeks.
 
+
+Why Do Y⁵ou Care? Don't Y⁵ou Have Better Things To Do?
+-------------------------------------------------------
+Of course i do! i wish this had been done Years ago! But since it wasn't done Years ago, i'm looking ahead at Decades of Vmonth Event Planning, and i can't connect "Calendar Date" to "Weekdate", and that drives me absolutely nuts. Do You know what day Valiant's Day is for the next 7 Years? i don't. Frankly, with some recklessness, i will admit that i don't even know what Weekday Valiant's Day falls on this Year! And i'm planning all the time for Valiant's Day! So much of my creative energy is based around a natural, noble, necessary, +normal sychronicity of the Courtship Season, as anchored, in the English-speaking World, into Valiant's Day. No doubt, it's easy to say that i should know what weekday Valiant's Day is, but this is January, and there's no reliable, "fast-and-frugal" map from here to there. 
+
+Whereas, with the Adoption of the lifesaver labs, Pax-mod Calendar,  i can say with absolute certainty that Valiant's Day will fall on a Bestday, on a "Saturn's day" on every Y⁵ear, forever. All 14s, all Si¹⁴s, will fall on Bestdays, always. And that's significant for me to know, because that means people like me, who have to avoid reactuating doped silicon wafers and ӛlectricity for anything but the most heavy-impact lifesaving, lifepreserving, lifecuring aim on those days, can't use ӛlectricity for their Valiant's Day Proposals.. at least not before sundown. So for us, until after L6, wei won't generally be able to watch, let alone interact, with any electronic screens attached to any Festivities or Proposals on that day, forever, unless it's absolutely essential to a life for us to do so, and that's a hard threshold for anyone but central organizers to cross. But the effect size, Y⁵es, can be large enuf.  That's an empirical reality⁵. And my sense is that the HhÅÆJ ⏣ Orthodox won't be upset in the least about being cut off from ëlectricity⁵ on that day, and will just be joyful for those celebrating the day⁵. The Valiant's Day Proposals of the HhÅÆJ ⏣ Orthodox can bridge either World, the World of Sabbath or the World of Bestday, by occurring before, at, or after sunset. What's more, this very knowledge, in advance, of a substantive difference in the Valiant's Day Proposal Form is a natural way of forming families whose members' ӛducation⁺ is consistent, consolidated, complementary⁵, and empowering in the Observance of the "Who, When, and How" Valiant's Day Mix. 
+
+But it's not just Valiant's Day that matters for a weekday fixture. With VMonths, Wei'll have to work toward Recurrent Monthly Gatherings, [Themed Learnapalooza](http://learnapaloozachi.com/)), and Musical Checkpoints that lovers can look forward to, count upon, and plan around. Life is not lived in virtual reality⁵.. Wei grow in the real world, at Real life Campus | Neighborhood Events, Gatherings, and Workshops. There's also Scheduling for Ᏼranchwise  Confirming Events (and Logical Branch Loops, and also, sadly sometimes, Dowry Sacrifice Disconfirms). The days that mark that Progression of the 5 Ys is very crucial, and must be repeated reliably, or wei'll have to keep changing Our Dates each and every Year, and cooperatively scheduling around each School's and City's and xx, xx, xy, xy family's calendar with a Mod 12 MADness adding to the total sum of the "crazy" cofactor. Privately, i suffered thru this before with a Major Event Plan, and no one wants to spend even an instant of their lives reauthing and redeclaring, with each new class and cohort, a reminder that Vmonth starts on a Tuesday, then a Sunday, then on a Friday, then on a Wednesday.. Who knows how to do Mod 5 in 7 iterations in a row? We're just wasting a massive amount of time "Remainder 5 Cycling" and "Month-to-Month Butt-ending" all the design materials and "weekday == day-of-month" checksum expectancies that accumulated for the Year, when Wei could just improve the Calendar, and simplify scheduling so much that wei drop the need for exhaustive checksums. A transformative event designer ∱team, planners, Courts, Courtships, and Attendees might make, at most, perhaps, 4 Versions of the CORE Design Assets that take a lot of heavy-lifting to build aesthetically and prepare, and then Recycle them every 4 Years, and get down to business on Ethics and other Aesthetics, sloughing off and refreshing as often as Students want, but with so much less pressure. Every Year will bring something amazing and new, but the CORE doesn't have to be rewritten and redeclared each Year because Pope Gregory was constrained by the Julian. Event Planners can save their Posters for the next Year, rather than throwing them away, knowing that they'll have to hit a Remainder 5 anyway next Year. With lifesaver labs, Pax-m, in many cases, You'd just be able to save the poster, or issue a series of 2 or 4 with a Cycle of change a background image, and the Poster's Ready. You don't need 7+ different versions. It can get as hi as 8, 9, 10 days of event drift, easily, without a Perennial Calendar to lock down Events. And compared to the graphic design waste, the memory security, month-to-month "2nd of the Month inconsistencies", and the memory leak issues are so large so as to be determinative. 
+
+That is.. assuming that You're hhuman or android. If You're human or android, the 13, 13 Mod 13 lifesaver labs, Pax-m Calendar makes more sense and forms so many readily recalled "bonds" that the reaction can be expected to proceed spontaneously, once the catalysts and some pacing, some activating energy, and some organizational orientations are achieved.
+
+We're accruing technical debt all the time, and if wei just overcome the transitional technical debt on a Mod 13 Musical Marathon Calendar,  wei'll be able to Count the Calendar Asset for the Rest of Our Lives, and "Gift It Forward" to the Next Generations. 
+
+Hail Mary! Pass
+-----------
+
+i'm relying on hhomemaker and hhacker news, but i'm also relying on the Vmonths and Larger Technical and Craft ☾almunity⁵, as it self-organizes and self-assembles in Creative Creative Commons Authorships. This "lifesaver labs" inflection of the Pax Calendar is either ready enuf to reach the next phase and be taken over by better C³ Authors or there isn't anything that i can do to make it ready enuf to see it reassumed and run thru to the last mile by better, faster, stabler set of Kohlberg Commons authors. 
+
+It's my belief that this is a Physical Necessity⁵, not only on the Grounds of the Physics of Stability⁵, but also on the Grounds of Civic Numeracy⁵. i'm throwing some 71 Yards. Will the Pass Lanđӛ? (It's at times like this that i wonder where J. Broglie is.)
+
 Æ/æ 粘土人
 
 [Franklin Calendar]: http://chronicle.com/blogs/profhacker/benjamin-franklins-habit-tracker/35069
@@ -201,6 +233,7 @@ i see 017 as Our Best Option, and putting this off is a Recipe for Parkinson's P
 [Novem: Nine, Also Thrown by Vanity]: https://en.wikipedia.org/wiki/November
 [Decem: Ten, See Above]: https://en.wikipedia.org/wiki/December
 
+[wk_pax_calendar]: https://en.wikipedia.org/wiki/Pax_Calendar
 [priming_effects]: https://en.wikipedia.org/wiki/Priming_(psychology)
 [diccionario]: https://github.com/lifesavers/diccionario#definitions-of-the-lifesaversarmy-diccionario
 
