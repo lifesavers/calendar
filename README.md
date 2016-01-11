@@ -3,10 +3,16 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ##[Only an idiotés][diccionario] would base their Solar Calendar off mod 12##
 
-![lifesaver labs, pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
+###Easy Reference Blink Test Comparisons###
+
+![The Gregorian Calendar][http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png]
+
+
+![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
 
 mod12(365)=5 or mod13(365)=1? Only an idiotés would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
+
 
 
 This is the Kohlberg Commons lifesaver labs (LL³⁶) Calendar, which is actually a rather light, dusted-off repackaging of the [Pax Calendar by J. Cooligan][wk_pax_calendar], with a hhandful of precautions and selection biases thrown in to lower the friction on a practical, relatively [thermokenethic][diccionario] worldwide adoption. There's a lot of great work and insight from the logic contests of the early 1900s that still hasn't been implemented Yet, and this is one of the highest ranking and highest impact when Adopted. Any Improvement in "Calendrical Episodic Memory⁵ and Planning Projection" can have an enormous effect. And if we follow the Cooligan Rule, with Leap Weeks every 71 of 400 Years (called Pax, by Cooligan), wei can Program the Major Strokes of the Calendar Immediately, without Further Delay⁵, leaving the Long and Short Labels for a Final Deliberative Decision Process. Let's just please not Program the Leap Week between Month 12 and 13, like Cooligan did. Let's just drop the Leap Week at the End of the Year. It's much easier, and if wei're going to be on a delay from solar sidereal at max by about a relative 3.5 days, the difference in putting it on the 7th Year after the 13th Month rather than after the 12th is not Material. 
@@ -206,6 +212,37 @@ That is.. assuming that You're hhuman or android. If You're human or android, th
 
 We're accruing technical debt all the time, and if wei just overcome the transitional technical debt on a Mod 13 Musical Marathon Calendar,  wei'll be able to Count the Calendar Asset for the Rest of Our Lives, and "Gift It Forward" to the Next Generations. 
 
+016: Universal ("Need to Have") and Long Now Date Formats (Not "Need To Have")
+-------------------------------------------------------------------------
+The U|S⁺ needs to come onto Universal Date Formats, eventually⁵, y⁵es? 
+
+YYYYY-MM-DD. Or YYY-MM-DD. Not MM/DD/YY, which gets confused all the time with YY/MM/DD if You travel or conduct business at all across Dating Conventions. "Long Now Date" formats are strongly preferred, such as "02016", to emphasize long-term orient.ed⁺ reasoning, but can wei ☾almpromise with the Contraction "016"? It's up to Y⁵ou. The "YYY" Triplet Space is Both Open and Distinctive. 
+
+wei can understand conserving the Universal Date Time short format of YY-MM-DD and long format of YYYYY-MM-DD, but please, if You're Building a System, either pad or let me slip in padding for an extra digit to pull the Outlook out to the "Long Now", 99999 AD|CE. It's become a Major Part of how i think. 
+
+But this is best settled by NSIT, the IEEE, and other Standards-Keeping Professional Bodies. Healthcare workers can't be bothered to write any extra penstrokes. But Judges generally have the time to shorten 2015 to 015 or, on the opposite face, pad "15" with an extra "0" to reach 015, and even signify 02015, and reflect on the longevity⁵ of the effect that Judicial Orders can have on multiple generations of families.
+
+Except for the implementation and transition, engineers likely will not have strong feelings based on their own routine taskload. Engineers generally work on nonroutine tasks, and withn processors, except in very rare applications, the memory allocated to a certain datetime, date, or timestamp is oversufficient and the datetime question is one of presentation logic, where it's simply a question of resu guest experience, assuming a preexisting ESS Altaration. The "second system" and "transition" problems are real, and on this, may constraint change to Standard, Preexistant Universal Date Formats, without "Long Now Æra" Remastering. But if Padding could be added sometimes in the Presentation Layers, that would be wonderful. It's truly⁵ helpful for thinking about the Long Term. 
+
+Bonus Work: This is the Zed (000 or 0) Century.. not the 21st
+-----------------------------------------------------
+Since We're on the topic of Calendars.. Historians did such a disservice to the Teaching of History in allowing the Years 0 - 99 to be called the "1st Century, AD". That gets confusing, endlessly confusing, as soon as We start speaking of the 19th Century of the 1800s, or the 400s in the 5th century, or the 3rd Century comprising the 200s. Why⁵ the Offset? i should not have to do operations constantly to piece these Centuries in (N00s, "N+1"st Century) Languistic Forms together. i would venture that even Historians see it as an attentional wound. It's not impossible that Historians, History Teachers have done this operation so much, and do it so frequently, that it's like adding 1 and 1 to them, but they don't understand how many sentences their students jump out of frame on and how many encodings just don't happen while this notion of an "Offset Ordinal Century" is getting remeasured and reevaluated. Each time it occurs this kind of statement throws them off-track and into a calculation of what "16th Century" means. Intuitively, the 16th Century is the 1600s. But no, it's the 1500s, according to books, because rather than starting the Count of Centuries at Zero in the Zero Year, the Count was started at "1st Century" at the Zero Year. This is all with an unhealthy dose of anachronism, to boot.. no one was actually calling the 0 Year "0" (whether operating with AD or operating with CE) in the Year 0. This Decision to "Offset Ordinal" the Centuries is what leads to these mindbending dynamics anytime the Offset Ordinal Centuries are used, whether in BC/BCE or AD/CE. All the BC-AD⁹ Years are insanely confusing when mixed with Offset Ordinal Century Labeling. What Century is 234 BC? Is that the 3rd Century BC(E) or 2nd Century BC(E)? Or is it a matter that's decided by Your Neighboring Classmate's Overconfident (or Hesitant) Opinion?  
+
+Having worked with whole and natural integer sequences often, the start point of a sequence of numbers can be either 0 (0, 1, 2, 3, ..) or 1 (1, 2, 3, 4..) without throwing me and my attention. In fact, in preparing a sequence of numbers for a Programmatic Function, the Author finds it strange when the starting point of 0 or 1 is assumed by anyone else in the Conversation. Whole or Natural does not throw me.. expressing the Year Numbers in Whole Integers but the Centuries in Natural Integers is endlessly confusing, on a second, and often a dekasecond evaluation delay, and not a millisecond, level. This may seem like a small thing, but this can turn a student off to Herstory, if they keep getting thrown by these rather senselessly complicated transcription flaws which carry within them no added meaning or value. The 19th Century should be the 1900s. If it's not the 1900s, please say "19 Century" instead, to help keep them matched up. It seems like a small thing, but it's not. It frustrated me so much growing up that i would lose the trail of thought from time to time, and today, i can't keep pace with Herstorians ⇌ Historians with accuracy and precision without needing to "space out" to recenter.. and if it's happening to me, it's happening quite frequently to everyone else who has had less than Professional Levels of Practice. It's a 21 count, doubly indexed offset. Let's just change it to be clearer. The 17 Century is 1700s, and the 17th Century no longer exists, because it's too expensive to cognitively evaluate that index all the time, unless wei're living within it.  
+
+As for this Century, if We call this Century the 0 (the Zed, 000) Century, and We commit to the Rule Proposed above, the rest of Herstory is going to be ever easier for students from now on to learn and remember in consistent Eras. There's going to be the 0 Int(Eranacional), the 1 Int, the 2 Int.. and the 2 Int will be the 200s. Wei are in 016 right now, in the 000s. Double coding Centuries to Years on an Offset is a fool's memory⁵ errand. It carries no real dividends, and it's just frustrating to keep track of across 21 different possible indexing sites, each of which has to be in very small fractions of a second, continuous with and with no interruption to the Herstory Teacher's Speech, classified properly⁵. Attentionally, it is far more conservative. Let's just retire the phrases "21st Century" and "22nd Century", and onward, and call this the Zed Century. 
+
+It's a long overdue Herstory⁵ Correction to the Teachings of "Offset Ordinal Centuries" ("OOC") History⁵.
+
+Bonus Work: Getting Rid of Railway Standard Time.. "The Local Anátomic Clocks" and "Globally Orient.ed Prime Time"
+------------------------------------------------
+Needless to say, the Clock also needs some Work. 
+
+SSC ▟ (Si¹⁴/O⁸W⁷⁴Tc⁴³B⁵, 14/874,435) is endeavoring to integrate Anátomical Time into Students Lives. It's healthier, and will help preserve Hhealth and Learning with better, sharper Steep Time Countdowns, Declarations, and Debts, and ☾almunity⁵ by sparking regular thought about the Lunch Hours (L, L1). For more, visit:
+
+[http://www.github.com/lifesavers/clock]() [Not Ready Yet]
+
+
 Hail Mary! Pass
 -----------
 
@@ -250,3 +287,5 @@ World Commentary is not only welcomed but very proactively n-couraged! This need
 Leap Year Answer Key: N, N, N, N, Y, N, N, N, Y, N, Y, N, N
 
 ⁸: For the Bestday, Restday Ordering, an even more divinely-driven "random pseudo-random" can settle the Bestday, Restday Order to National Institutes of Standards and Technology⁵ (NIST), IntEranacional Observers, et. al. Grades of Random Seed Randomness. Only after the coinflip, Bestday⁵ emerged as the Superlatively Best Culturally for the end of a Grinding Workweek, and that may be settled (or its opposite settled) in the Will without 50|50 Resort. My vote is for Bestday - Restday, reasoning this thru for any⁵ Population that expresses Anticipation for the Weekend and "No Special Committment" to Religious Ᏼranch Worship on the 1st or the 7th Day Adventisms in particular on this Nomic Naming Matter, which sidesteps ""Sabbath | Shabbat"" Controversial Namings of the Saturday (Saturn's Day) or Sunday (Sun's Day). 
+
+⁹: Recently, the Author filed for a Name Change, and the initials on the Filing, if the Name Change is Granted, will work out to ÆĐᏴC. The altarnative, ÆĐᏴC, was considered carefully, but the sentence syntax, the message and the ☾almunity⁵ Protective need, is more clear as "Æve Đarius Ᏼranch Clay⁵man", which re:solves to ÆĐᏴC. The alignment with the BC-AD temporal spectrum is a musical "accidental". It was not a CORE intended feature of the Name, but accompanies the Ædam Đavid sequence. Bear in mind that to me, this Year is really not 015.. it's actually officially 5776. In my reading of Herstory, The Declaration of Independence was Signed on July 4, 05536, as well as on July 4, 01776. Many of Us in the U|S⁺ are raised under more than One Calendar. At this time last Year, in 中国上海, i was working regularly under 3: The 中国的 Calendar, The Gregorian, and the Ævereet.. and the Gregorian is officially bad, and the Ævereet is, Well, often confusing for those who don't get into the very deep details of the lunary⁵ cycles. 
