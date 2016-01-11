@@ -3,8 +3,6 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ##[Only an idiotés][diccionario] would base their Solar Calendar off mod 12##
 
-###Easy Reference Blink Test Comparisons###
-
 ![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
 
