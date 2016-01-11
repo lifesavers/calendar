@@ -5,10 +5,13 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ###Easy Reference Blink Test Comparisons###
 
+![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
+
+
 ![The Gregorian Calendar](http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png)
 
 
-![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
+
 
 
 mod12(365)=5 or mod13(365)=1? Only an idiotés would base their Solar Calendar off mod 12, when they could mod 13 it instead. Mod 13 Yields Remainder 1; Mod 12 Yields Remainder 5. On the lifesaver labs Calendar, the 20th of every month, for the rest of time, will be the equivalent of a Friday. We won't call it "Friday", but it will always be a Friday. 
