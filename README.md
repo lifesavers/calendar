@@ -5,7 +5,7 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 
 ###Easy Reference Blink Test Comparisons###
 
-![The Gregorian Calendar][http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png]
+![The Gregorian Calendar](http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png)
 
 
 ![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
