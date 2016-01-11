@@ -8,7 +8,7 @@ Let's Put the Gregorian, Julian Calendar in the Grave this Year
 ![lifesaver labs, Pax-mod Calendar](https://github.com/lifesavers/calendar/blob/master/webassets/KohlbergLL36PaxMCalendar.png?raw=true)
 
 
-![The Gregorian Calendar](http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png)
+<!-- Need to find or make a more direct comparable with formatting conventions maintained nearly enuf, or this becomes "an endless wall of poorly synthesized image, followed by what suddenly feels like endless blocks of text after these two images hit dysphonically.".  ![The Gregorian Calendar](http://eprintablecalendar.net/wp-content/uploads/Yearly-Printable-Calendar-2016.png)-->
 
 
 
